@@ -24,8 +24,8 @@
 ## Certifications
 
 - **Machine Learning Specialization (1/3)** - COURSERA, Stanford University
-- **Meta Frontend Professional Certification** - COURSERA, Meta/Facebook
-- **Meta Backend Professional Certification** - COURSERA, Meta/Facebook
+- **Meta Frontend Professional Certification** (Audited) - COURSERA, Meta/Facebook
+- **Meta Backend Professional Certification** (Audited) - COURSERA, Meta/Facebook
 - **Advanced PCB Design Workshop** - LOGICZAP NEXTGEN TECHNOLOGIES.
 - **SQL Basics Certification** - HACKERRANK
 - **SQL Intermediate Certification** - HACKERRANK
