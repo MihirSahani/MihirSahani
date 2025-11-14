@@ -1,6 +1,6 @@
 # Mihir Sahani - GitHub Profile
 
-- **Email:** mihirsahani@protonmail.com
+- **Email:** sahanimihir@proton.me
 - **Phone:** +916297727313
 - **Location:** Hall 1, NIT Durgapur
 
